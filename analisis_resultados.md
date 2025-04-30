@@ -1,4 +1,8 @@
-# Análisis de Resultados del proyecto de regresión lineal de galaxias por Daniel Alejandro Hernández Gálvez
+# Análisis de Resultados del proyecto de regresión lineal de galaxias 
+
+## Alumno: Sebasti´an S´anchez Espinosa
+## Materia: Programacion
+## Profesor: Jose Manuel Nava Cervantes
 
 ## 1. Carga y Exploración Inicial de Datos
 
