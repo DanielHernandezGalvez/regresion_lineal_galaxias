@@ -1,8 +1,8 @@
-# Análisis de Resultados del Proyecto Jupyter Notebook
+# Análisis de Resultados del proyecto de regresión lineal de galaxias por Daniel Alejandro Hernández Gálvez
 
 ## 1. Carga y Exploración Inicial de Datos
 
-- **Fuente**: Datos cargados desde [Google Sheets](https://docs.google.com/spreadsheets/d/1DY9UvA...)
+- **Fuente**: Datos cargados desde galaxias_data.xlsx (el archivo fue cargado a google sheets para facilitar el consumo de la información)
 
 ### Variables Clave
 
